@@ -1,4 +1,4 @@
-# Poker Dice 🎲
+# PokerDice 🎲
 ## Introduction
 This is a simple implementation of poker dice, written in C. I wrote this a while ago!
 
